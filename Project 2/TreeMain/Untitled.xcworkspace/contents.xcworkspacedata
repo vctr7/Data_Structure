@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Experiment.c">
+   </FileRef>
+   <FileRef
+      location = "group:Experiment.h">
+   </FileRef>
+   <FileRef
+      location = "group:Rotations.c">
+   </FileRef>
+   <FileRef
+      location = "group:Rotations.h">
+   </FileRef>
+   <FileRef
+      location = "group:SearchableTree.c">
+   </FileRef>
+   <FileRef
+      location = "group:SearchableTree.h">
+   </FileRef>
+   <FileRef
+      location = "group:Timer_MacUnix.c">
+   </FileRef>
+   <FileRef
+      location = "group:Timer.h">
+   </FileRef>
+   <FileRef
+      location = "group:TreeIO.c">
+   </FileRef>
+   <FileRef
+      location = "group:TreeIO.h">
+   </FileRef>
+   <FileRef
+      location = "group:TreeMain.c">
+   </FileRef>
+   <FileRef
+      location = "group:TreeNode.c">
+   </FileRef>
+   <FileRef
+      location = "group:TreeNode.h">
+   </FileRef>
+   <FileRef
+      location = "group:XYZTreeNode_MacOSX.o">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,3 @@
+/Users/vctr/Desktop/TreeMain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vctr/Desktop/TreeMain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vctr/Desktop/TreeMain/cmake-build-debug/CMakeFiles/TreeMain.dir

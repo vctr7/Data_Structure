@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vctr/Desktop/TestRotations/Rotations.c
+stdlib.h
+-
+TreeNode.h
+/Users/vctr/Desktop/TestRotations/TreeNode.h
+Rotations.h
+/Users/vctr/Desktop/TestRotations/Rotations.h
+
+/Users/vctr/Desktop/TestRotations/Rotations.h
+
+/Users/vctr/Desktop/TestRotations/TreeNode.h
+
